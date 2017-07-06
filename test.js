@@ -1,6 +1,5 @@
-import Plotly.relayout as refresh
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
 
-var update = {
-    'xaxis.autorange': true,   // updates the xaxis range
-    'yaxis.autorange': false     // updates the end of the yaxis range
-};
+$('data-title'="Autoscale").click()
+
+</script>
