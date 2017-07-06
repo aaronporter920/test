@@ -8,5 +8,5 @@ for (i = 0; i < bttns.length; i++){
     
                 }
 console.log("Sup");
-}, 10005);
+}, 10100);
 
